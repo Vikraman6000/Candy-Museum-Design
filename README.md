@@ -1,4 +1,4 @@
-# Candy-Museum-
+# Candy-Museum-Design
 A simple Responsive webpage designed using Bootstrap Framework.
 
 The website is live at https://vikraman6000.github.io/Candy-Museum-Design/main.html.
